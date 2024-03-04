@@ -1,3 +1,3 @@
 # Demo Repository
 
-A Description
+This is a demo repository.
